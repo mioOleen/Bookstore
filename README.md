@@ -16,11 +16,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Capstone Project] <a name="about-project"></a>
+# 📖 [Microverse Project] <a name="about-project"></a>
 
-> This project is about creating a capstone project.
+> This project is simple book store project.
 
-**[Capstone project]** is a...
+**[Microverse project ]** is a simple book store project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -70,7 +70,7 @@ Original design idea byCindy Shin(https://www.behance.net/adagio07)
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://miooleen.github.io/Capstone-project/)
+- [Live Demo Link]([https://miooleen.github.io/Capstone-project/](https://miooleen.github.io/bookstore/))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
